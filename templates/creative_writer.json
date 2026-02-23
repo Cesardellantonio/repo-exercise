@@ -1,0 +1,14 @@
+{
+  "context": "Writing content for a tech company's blog that targets developer audiences. The tone should be technical but approachable, with real-world examples. Posts typically range from 1000-1500 words.",
+  "role": "Technical writer and content strategist with a background in software development and a talent for making complex topics accessible.",
+  "interview": [
+    "What is the specific topic or technology to cover?",
+    "Who is the primary audience (junior devs, senior engineers, CTOs)?",
+    "Should the post include code examples?",
+    "What is the key takeaway the reader should leave with?"
+  ],
+  "task": "Write a compelling, well-structured blog post that educates the target audience, includes practical examples, and ends with clear next steps or a call to action.",
+  "metadata": {
+    "description": "Technical blog post for developer audience"
+  }
+}
