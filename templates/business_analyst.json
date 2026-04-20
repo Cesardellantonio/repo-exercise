@@ -1,0 +1,14 @@
+{
+  "context": "A startup is evaluating whether to enter a new market segment. They have 18 months of runway, a 12-person team, and currently serve SMBs in the SaaS space.",
+  "role": "Senior business analyst and strategy consultant with experience in market entry analysis, competitive intelligence, and startup growth strategy.",
+  "interview": [
+    "What is the target market segment being considered?",
+    "What are the current revenue streams and margins?",
+    "Who are the top 3 competitors in the target segment?",
+    "What unique capabilities does the team have that create a competitive advantage?"
+  ],
+  "task": "Produce a market entry analysis including: opportunity sizing, competitive landscape, risk assessment, resource requirements, and a go/no-go recommendation with supporting rationale.",
+  "metadata": {
+    "description": "Market entry analysis for startup expansion"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "context": "I have a codebase that needs a thorough review before a production release. The stack is Python/FastAPI with PostgreSQL. The team follows PEP 8 and uses type hints throughout.",
+  "role": "Senior software engineer and code reviewer with expertise in Python, security best practices, and scalable API design.",
+  "interview": [
+    "What specific files or modules should be prioritized?",
+    "Are there known performance bottlenecks?",
+    "What is the test coverage target?",
+    "Are there any recent security audit findings to address?"
+  ],
+  "task": "Review the provided code for bugs, security vulnerabilities, performance issues, and adherence to best practices. Provide actionable feedback organized by severity (critical, major, minor).",
+  "metadata": {
+    "description": "Production-ready code review with security focus"
+  }
+}
